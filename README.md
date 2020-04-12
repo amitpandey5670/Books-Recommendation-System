@@ -1,7 +1,7 @@
 # Books-Recommendation-System
 The project consists of Recommendation of different books  based on the data of customer.
 We have used KNN algorithm for our recommendation system.
-The drive link of the dataset is given in the jupyter notebook file which is linked there.
+The drive link of the dataset is given in the jupyter notebook file.
 
 # K-Nearest Neighbors Algorithm
 
